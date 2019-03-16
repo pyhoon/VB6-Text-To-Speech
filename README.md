@@ -8,3 +8,6 @@ Features include:
 4. Clear text
 5. Set speak rate (Min = -10, Max = +10, Normal = 0)
 6. Voice_StartStream / Voice_EndStream events
+
+**Preview:**
+![Screenshot](https://github.com/pyhoon/VB6-Text-To-Speech/blob/master/VB6IDE.png)
